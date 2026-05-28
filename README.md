@@ -1,1 +1,1 @@
-# Gen-AI - A AI powered Chatbot on streamlit
+# Gen-AI - AI powered Chatbot on streamlit
